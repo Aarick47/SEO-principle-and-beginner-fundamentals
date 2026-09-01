@@ -30,8 +30,8 @@ Search Visibility
 
 1. [The Problem](01-the-problem/)
 2. [How Google Works](02-how-google-works/)
-3. [Getting Your Website Ready](03-getting-you-website-ready/)
-4. [Getting Your Website Discovered](04-getting-your-website=discovered/)
+3. [Getting Your Website Ready](03-getting-your-website-ready/)
+4. [Getting Your Website Discovered](04-getting-your-website-discovered/)
 5. [Getting Indexed](05-getting-indexed/)
 6. [Getting Ranked](06-getting-ranked/)
 7. [Real-World Journey](07-my-real-world-journey/)
